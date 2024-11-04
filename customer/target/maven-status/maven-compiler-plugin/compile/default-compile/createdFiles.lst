@@ -1,0 +1,14 @@
+com\alibou\ecommerce\customer\Customer.class
+com\alibou\ecommerce\customer\CustomerService.class
+com\alibou\ecommerce\handler\GlobalExceptionHandler.class
+com\alibou\ecommerce\customer\Address$AddressBuilder.class
+com\alibou\ecommerce\customer\Address.class
+com\alibou\ecommerce\customer\CustomerResponse.class
+com\alibou\ecommerce\customer\CustomerRepository.class
+com\alibou\ecommerce\customer\CustomerController.class
+com\alibou\ecommerce\customer\CustomerMapper.class
+com\alibou\ecommerce\customer\CustomerRequest.class
+com\alibou\ecommerce\exception\CustomerNotFoundException.class
+com\alibou\ecommerce\CustomerApplication.class
+com\alibou\ecommerce\handler\ErrorResponse.class
+com\alibou\ecommerce\customer\Customer$CustomerBuilder.class
